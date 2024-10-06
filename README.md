@@ -212,7 +212,6 @@ CALL CancelOrder(5);
 ```
 
 
-### Dashboard
-![dashboard](./Images/tableau-task5.png)
+
 
 
